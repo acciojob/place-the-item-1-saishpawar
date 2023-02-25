@@ -1,4 +1,4 @@
-.container{
+.holder{
     display: flex;
     flex-flow: row wrap;
     gap: 20px;justify-content: space-between;
