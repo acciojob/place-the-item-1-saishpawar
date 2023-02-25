@@ -1,2 +1,14 @@
+.container{
+    display: flex;
+    flex-flow: row wrap;
+    gap: 20px;justify-content: space-between;
+    border: 2px solid red;
 
+}
+.box{
+    height: 70px;
+    width: 50px;
+    background-color: orange;
+    
+}
 /* Your CSS Code here. */
